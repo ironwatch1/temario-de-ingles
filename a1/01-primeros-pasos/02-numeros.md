@@ -72,8 +72,13 @@ Se utilizan principalmente para decir fechas (ej. *"May 3rd"*). La regla general
 | **4th** | fourth | 4th |
 | **5th** | fifth | 5th |
 | **12th** | twelfth | 12th |
+| **13th** | thirteenth | 13th |
 | **21st** | twenty-first | 21st |
 | **31st** | thirty-first | 31st |
+
+> ⚠️ **Diferencia clave (13th vs 23rd):** 
+> - Del **13 al 19** se añade **-th** al número *-teen*: *thirteen $\rightarrow$ **thirteenth*** (13th).
+> - Solo en los compuestos a partir de 20 se cambia la unidad: *twenty-three $\rightarrow$ **twenty-third*** (23rd).
 
 > ⚠️ **Irregularidades ortográficas:**
 > - **5:** *fifth* (no *"fiveth"*)
