@@ -53,14 +53,24 @@ La regla general es que para decir un número de dos dígitos, primero se dice l
 
 
 
-### Ordinales básicos (para fechas)
-| Día | Ordinal | Abreviatura |
-|-----|---------|-------------|
-| 1 | first | 1st |
-| 2 | second | 2nd |
-| 3 | third | 3rd |
-| 4 | fourth | 4th |
+### Ordinales (para fechas)
+
+Los ordinales se usan sobre todo para decir fechas: "May 3rd" (el 3 de mayo). La regla general es añadir **-th** al número, pero los primeros son irregulares:
+
+| Nº | Ordinal | Abreviatura |
+|----|---------|-------------|
+| 1  | first   | 1st |
+| 2  | second  | 2nd |
+| 3  | third   | 3rd |
+| 4  | fourth  | 4th |
+| 5  | fifth   | 5th |
+| 12 | twelfth | 12th |
 | 21 | twenty-first | 21st |
 | 31 | thirty-first | 31st |
 
+> ⚠️ **Irregularidades:** 5 es **fifth** (no "fiveth"), 8 es **eighth** (solo una h), 9 es **ninth** (sin la e de nine) y 12 es **twelfth** (la v pasa a f).
+
+> 💡 **En compuestos** (21, 31...), solo la última parte va en ordinal: twenty-**first**, thirty-**second**.
+
+> 💡 **Fechas:** el día va en ordinal, no en cardinal: May **3rd**, January **1st** (se dice "January third", no "January three").
 ---
