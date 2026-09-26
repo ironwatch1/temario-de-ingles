@@ -12,7 +12,7 @@ Recuerda que en inglés **las nacionalidades y los idiomas siempre se escriben c
 | :--- | :--- | :--- | :--- |
 | **Spain** | Spanish | Spanish | *I am from Spain. I am Spanish.* |
 | **The UK** | British | English | *She is British.* |
-| **The USA** | American | English | *They are from the USA.* |
+| **The USA** | US citizen | English | *They are from the USA.* |
 | **France** | French | French | *He is French.* |
 | **Germany** | German | German | *We are in Germany.* |
 | **Italy** | Italian | Italian | *Italian food is great.* |
