@@ -37,7 +37,7 @@ Es importante saber que las pronunciaciones que se han puesto anteriormente sirv
 ### Letras confusas para hispanohablantes
 
 | Grupo | Problema común |
-|-------|---------------|---------|
+|-------|---------------|
 | A / E / I | Suenan parecidas |
 | G / J | En español G suena fuerte |
 | M / N | Diferencia sutil al final |
