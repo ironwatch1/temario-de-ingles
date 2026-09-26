@@ -29,15 +29,20 @@
 | Y | wai |
 | Z | zi / zed |
 
+
+Es importante saber que las pronunciaciones que se han puesto anteriormente sirven para deletrear, pero la pronunciación de las letras depende del contexto de en que palabra esté escrita.
+
+
+
 ### Letras confusas para hispanohablantes
 
-| Grupo | Problema común | Consejo |
+| Grupo | Problema común |
 |-------|---------------|---------|
-| A / E / I | Suenan parecidas | Practica: cat (A=/ei/) vs. ket (no existe) |
-| G / J | En español G suena fuerte | G = suave antes de e/i, J siempre dura |
-| M / N | Diferencia sutil al final | Listen to "mom" vs. "moon" |
-| V / B | Español no tiene V aspirada | V = dientes en labio inferior, B = labios juntos |
-| L / LL | No hay "LL" inglesa | Ella ≠ "she" ≠ "he" |
+| A / E / I | Suenan parecidas |
+| G / J | En español G suena fuerte |
+| M / N | Diferencia sutil al final |
+| V / B | Español no tiene V aspirada |
+| L / LL | No hay "LL" inglesa |
 
 ### Símbolos y abreviaturas útiles
 
