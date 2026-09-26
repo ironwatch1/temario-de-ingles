@@ -2,6 +2,8 @@
 
 ### Del 0 al 9
 
+| Nº | Palabra |
+|----|---------|
 | 0 | zero |
 | 1 | one |
 | 2 | two |
