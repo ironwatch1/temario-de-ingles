@@ -46,6 +46,40 @@ Para negar, solo tienes que añadir la palabra **NOT** después del verbo.
 
 Para hacer preguntas, **se invierte el orden**: el verbo pasa a la primera posición, **antes** del sujeto.
 
-```text
-[ Verb "To Be" ] + [ Subject ] + [ Complement ] ?
-     Are             you           tired      ?
+Estructura: `[ Verb "To Be" ] + [ Subject ] + [ Complement ] ?`
+Ejemplo: *Are you tired?*
+
+En inglés es muy habitual y natural responder con **respuestas cortas** (*Short Answers*) en lugar de responder solo un *Yes* o *No* a secas.
+
+| Question | Short Answer (Yes) | Short Answer (No) |
+| :--- | :--- | :--- |
+| **Am I** late? | Yes, you are. | No, you aren't. |
+| **Are you** Italian? | Yes, I am. | No, I'm not. |
+| **Is he** an engineer? | Yes, he is. | No, he isn't. |
+| **Is she** happy? | Yes, she is. | No, she isn't. |
+| **Is it** big? | Yes, it is. | No, it isn't. |
+| **Are we** ready? | Yes, we are. | No, we aren't. |
+| **Are they** from the USA? | Yes, they are. | No, they aren't. |
+
+> ⚠️ **Regla de oro para respuestas afirmativas:** En las respuestas cortas afirmativas **NUNCA se usan contracciones**.
+> - ✅ *Yes, I am.* / ✅ *Yes, he is.* / ✅ *Yes, they are.*
+> - ❌ *Yes, I'm.* / ❌ *Yes, he's.* / ❌ *Yes, they're.*
+
+---
+
+### 4. Common Mistakes with "To Be" (Errores Clave)
+
+> ❌ **Confundir TENER con TO BE:**
+> En español decimos "tengo 25 años", "tengo hambre", "tengo frío". En inglés se usa el verbo **To Be** (ser/estar en ese estado o condición).
+> - ❌ *I have 25 years old.* $\rightarrow$ ✅ **I am 25 years old.**
+> - ❌ *I have hunger.* $\rightarrow$ ✅ **I am hungry.**
+> - ❌ *He has cold.* $\rightarrow$ ✅ **He is cold.**
+
+> ❌ **Olvidar el artículo `a` / `an` en las profesiones:**
+> - ❌ *I am doctor.* $\rightarrow$ ✅ **I am a doctor.**
+> - ❌ *She is engineer.* $\rightarrow$ ✅ **She is an engineer.**
+
+> ❌ **Omitir el sujeto "It":**
+> En español es común decir "Es fácil" o "Hace calor" sin sujeto. En inglés el sujeto es siempre obligatorio.
+> - ❌ *Is easy.* $\rightarrow$ ✅ **It is easy.**
+> - ❌ *Is hot today.* $\rightarrow$ ✅ **It is hot today.**
