@@ -1,16 +1,16 @@
 ## Números
 
 ### Del 0 al 9
-| 0 | zero | 11 | eleven |
-| 1 | one | 12 | twelve |
-| 2 | two | 13 | thirteen |
-| 3 | three | 14 | fourteen |
-| 4 | four | 15 | fifteen |
-| 5 | five | 16 | sixteen |
-| 6 | six | 17 | seventeen |
-| 7 | seven | 18 | eighteen |
-| 8 | eight | 19 | nineteen |
-| 9 | nine | 20 | t
+| 0 | zero |
+| 1 | one |
+| 2 | two |
+| 3 | three |
+| 4 | four |
+| 5 | five |
+| 6 | six |
+| 7 | seven |
+| 8 | eight |
+| 9 | nine |
 
 
 ### Decenas (20-100)
