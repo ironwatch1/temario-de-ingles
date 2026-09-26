@@ -20,7 +20,7 @@ El verbo tiene 3 formas: **AM**, **IS**, **ARE**.
 | **She** | is | **She's** | She's tired. | Ella está cansada. |
 | **It** | is | **It's** | It's cold today. | Hace / Está frío hoy. |
 | **We** | are | **We're** | We're happy. | Estamos felices. |
-| **They** | are | **They're** | They're American. | Ellos son estadounidenses. |
+| **They** | are | **They're** | They're US citizen. | Ellos son estadounidenses. |
 
 ---
 
