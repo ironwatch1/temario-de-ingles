@@ -1,6 +1,6 @@
 ## Números
 
-### Del 0 al 9
+### Del 0 al 10
 
 | Nº | Palabra |
 |----|---------|
@@ -13,6 +13,8 @@
 | 6 | six |
 | 7 | seven |
 | 8 | eight |
+| 9 | nine |
+| 10 | ten |
 | ### Del 11 al 19
 
 La excepción son los números del 11 y 12, que son irregulares, y del 13 al 19, que acaban en -teen:
