@@ -71,7 +71,7 @@ Sustituyen al sustantivo para no repetirlo. **Nunca van seguidos de un sustantiv
 | **You** | **yours** | el tuyo / la tuya / los tuyos / las tuyas | Is this bag **yours**? |
 | **He** | **his** | el suyo / la suya (de él) | That key is **his**. |
 | **She** | **hers** | el suyo / la suya (de ella) | The laptop is **hers**. |
-| **It** | *(No se suele usar)* | - | - |
+| **It** | **Its** | - | - |
 | **We** | **ours** | el nuestro / la nuestra... | The victory is **ours**. |
 | **You** | **yours** | el vuestro / el suyo... | The seats are **yours**. |
 | **They** | **theirs** | el suyo / la suya (de ellos/as) | That garden is **theirs**. |
