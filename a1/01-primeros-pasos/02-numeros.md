@@ -17,11 +17,13 @@
 
 La excepción son los números del 11 y 12, que son irregulares, y del 13 al 19, que acaban en -teen:
 
-| 11 | eleven | 15 | fifteen |
-| 12 | twelve | 16 | sixteen |
-| 13 | thirteen | 17 | seventeen |
-| 14 | fourteen | 18 | eighteen |
-| 19 | nineteen | | |
+| Nº | Palabra | Nº | Palabra |
+|----|---------|----|---------|
+| 11 | eleven  | 15 | fifteen |
+| 12 | twelve  | 16 | sixteen |
+| 13 | thirteen| 17 | seventeen |
+| 14 | fourteen| 18 | eighteen |
+| 19 | nineteen|    |         |
 
 > ⚠️ **Ortografía:** 15 es **fifteen** (no "fiveteen") y 18 es **eighteen** (solo una t).
 
@@ -29,11 +31,18 @@ La excepción son los números del 11 y 12, que son irregulares, y del 13 al 19,
 
 La regla general es que para decir un número de dos dígitos, primero se dice la decena y luego el número que sigue. Por ejemplo: **thirty-four** (34).
 
-| 20 | twenty | 60 | sixty |
-| 30 | thirty | 70 | seventy |
-| 40 | forty | 80 | eighty |
-| 50 | fifty | 90 | ninety |
-| 100 | one hundred | | |
+| Nº | Palabra | Pronunciación |
+|----|---------|---------------|
+| 20 | twenty  | TUEN-ti       |
+| 30 | thirty  | THUR-ti       |
+| 40 | forty   | FOR-ti        |
+| 50 | fifty   | FIF-ty        |
+| 60 | sixty   | SIK-sti       |
+| 70 | seventy | SEV-en-ti     |
+| 80 | eighty  | ET-i          |
+| 90 | ninety  | NAI-ni        |
+| 100| one hundred | WAN HUN-dred |
+
 
 > ⚠️ **Ojo con la pronunciación:** 13-19 llevan el énfasis al final (thir**TEEN**) y las decenas al principio (**THIR**ty). Es la diferencia entre thirteen (13) y thirty (30).
 
